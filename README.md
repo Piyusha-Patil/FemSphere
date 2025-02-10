@@ -56,3 +56,11 @@ yarn dev
 ## Contributing
 
 We welcome contributions! Feel free to fork the repository, submit issues, or open pull requests.
+
+## Screenshots
+
+![Image](https://github.com/user-attachments/assets/71fc7e7b-4901-4604-99e2-218fb8494a87)
+![Image](https://github.com/user-attachments/assets/196226de-ae80-4dc2-91ab-ef49083c4bd0)
+![Image](https://github.com/user-attachments/assets/905a7ba6-f5a4-4c32-8fb8-33a3e9716033)
+![Image](https://github.com/user-attachments/assets/1d5cb4e5-1434-4942-9377-ae35cccf22eb)
+![Image](https://github.com/user-attachments/assets/dbedf7b7-e883-4e76-92f7-1997f43fd4ef)
